@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an array index out of bounds error and its solution. The bug.pl file shows the erroneous code that attempts to access an element beyond the array's limits.  The bugSolution.pl file provides a corrected version, incorporating input validation and error handling to prevent the error.
